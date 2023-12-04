@@ -3937,7 +3937,7 @@ const it = t1({}),
                 children: [o(ue, {
                     href: "/",
                     className: Ze.logo,
-                    children: "B&W"
+                    children: "ETERNITY RUST"
                 }), o(Ia, {
                     setIsModalVisible: t
                 }), o(ia, {
@@ -4003,7 +4003,7 @@ const it = t1({}),
                     className: ae.left,
                     children: o("h1", {
                         className: ae.title,
-                        children: ["©", new Date().getFullYear(), " BLACK AND WHITE"]
+                        children: ["©", new Date().getFullYear(), " ETERNITY TEAM"]
                     })
                 }), o("div", {
                     className: ae.helps,
